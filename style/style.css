@@ -962,7 +962,13 @@ hr{
         flex-wrap: wrap;
     }
 
+    .secondStartBox{
+        height: auto;
+    }
 
+    #lastLaunch{
+        margin-bottom: 20px;
+    }
     
 }
 
