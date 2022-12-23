@@ -969,6 +969,11 @@ hr{
     #lastLaunch{
         margin-bottom: 20px;
     }
+
+    .button2Txt{
+        font-size: 10px;
+        font-family: "Roboto";
+    }
     
 }
 
